@@ -1,18 +1,125 @@
 [
-  { "quote": "He who dwells in the secret place of the Most High Shall abide under the shadow of the Almighty.", "author": "Psalm 91:1" },
-  { "quote": "I will say of the Lord, 'He is my refuge and my fortress; My God, in Him I will trust.'", "author": "Psalm 91:2" },
-  { "quote": "Surely He shall deliver you from the snare of the fowler And from the perilous pestilence.", "author": "Psalm 91:3" },
-  { "quote": "He shall cover you with His feathers, And under His wings you shall take refuge; His truth shall be your shield and buckler.", "author": "Psalm 91:4" },
-  { "quote": "You shall not be afraid of the terror by night, Nor of the arrow that flies by day,", "author": "Psalm 91:5" },
-  { "quote": "Nor of the pestilence that walks in darkness, Nor of the destruction that lays waste at noonday.", "author": "Psalm 91:6" },
-  { "quote": "A thousand may fall at your side, And ten thousand at your right hand; But it shall not come near you.", "author": "Psalm 91:7" },
-  { "quote": "Only with your eyes shall you look, And see the reward of the wicked.", "author": "Psalm 91:8" },
-  { "quote": "Because you have made the Lord, who is my refuge, Even the Most High, your dwelling place,", "author": "Psalm 91:9" },
-  { "quote": "No evil shall befall you, Nor shall any plague come near your dwelling;", "author": "Psalm 91:10" },
-  { "quote": "For He shall give His angels charge over you, To keep you in all your ways.", "author": "Psalm 91:11" },
-  { "quote": "In their hands they shall bear you up, Lest you dash your foot against a stone.", "author": "Psalm 91:12" },
-  { "quote": "You shall tread upon the lion and the cobra, The young lion and the serpent you shall trample underfoot.", "author": "Psalm 91:13" },
-  { "quote": "“Because he has set his love upon Me, therefore I will deliver him; I will set him on high, because he has known My name.", "author": "Psalm 91:14" },
-  { "quote": "He shall call upon Me, and I will answer him; I will be with him in trouble; I will deliver him and honor him.", "author": "Psalm 91:15" },
-  { "quote": "With long life I will satisfy him, And show him My salvation.”", "author": "Psalm 91:16" }
+  { "quote": "那時，他的皮肉比孩童還嫩，他將恢復青春的活力。", "author": "约伯记 33:25" },
+  { "quote": "他祷告上帝，上帝就喜悦他，使他欢呼朝见上帝的面；上帝又看他为义。", "author": "约伯记 33:26" },
+  { "quote": "看啊，这都是上帝的作为，祂一次次地恩待世人，从深坑救回人的灵魂，使他沐浴生命之光。", "author": "约伯记 33:29-30" },
+
+  { "quote": "許多人說：「誰會善待我們呢？」耶和華啊，求你的聖容光照我們。你使我比那收穫五穀新酒的人更喜樂。耶和華啊，只有你使我安然居住，我必高枕無憂。", "author": "诗篇 4:6-8" },
+
+  { "quote": "耶和华的律法完美，能更新生命；耶和华的法度可靠，让愚人有智慧。", "author": "诗篇 19:7" },
+  { "quote": "耶和华－我的磐石，我的救赎主啊，愿我口中的言语，心里的意念在你面前蒙悦纳。", "author": "诗篇 19:14" },
+
+  { "quote": "耶和華是我的牧者，我必一無所缺。", "author": "诗篇 23:1" },
+  { "quote": "我一生一世必有恩惠慈爱随着我；我且要住在耶和华的殿中，直到永远。", "author": "诗篇 23:6" },
+
+  { "quote": "谁喜爱生命，爱慕长寿，享受美福，就应谨守舌头，不出恶言，嘴唇不说欺诈的话。", "author": "诗篇 34:12-13" },
+  { "quote": "义人多有苦难，但耶和华救他脱离这一切，又保护他全身的骨头，连一根也不折断。", "author": "诗篇 34:19-20" },
+  { "quote": "耶和华救赎他仆人的性命，凡投靠他的，必不致定罪。", "author": "诗篇 34:22" },
+
+  { "quote": "那倚靠耶和华、不理会狂傲和偏向虚假的，这人有福了！", "author": "诗篇 40:4" },
+  { "quote": "你要把你的重担卸给耶和华，他必扶持你，他永不叫义人动摇。", "author": "诗篇 55:22" },
+
+  { "quote": "上帝啊，求你为我造清洁的心，使我里面重新有正直的灵。", "author": "诗篇 51:10" },
+  { "quote": "求你让我重新享受蒙你拯救的喜乐，赐我一个乐意顺服你的心灵。", "author": "诗篇 51:12" },
+
+  { "quote": "我要述说主耶和华的大能，我单要提说你的公义。", "author": "诗篇 71:16" },
+
+  { "quote": "我的心啊，要称颂耶和华，不要忘记祂的一切恩惠。祂赦免你一切的罪恶，医治你一切的疾病。祂救赎你的生命脱离死亡，以慈爱和怜悯环绕你。祂以美物满足你的愿望，使你如鹰一般恢复青春。", "author": "诗篇 103:2-5" },
+
+  { "quote": "我因愁苦身心耗尽，求你照你的话使我坚立！", "author": "诗篇 119:28" },
+  { "quote": "求你使我转眼不看虚空的事，又使我在你的道中存活。", "author": "诗篇 119:37" },
+  { "quote": "看哪，我切慕你的训词，求你因你的公义赐我生命！", "author": "诗篇 119:40" },
+  { "quote": "耶和华啊，求你悦纳我口中的赞美为甘心祭，又将你的典章教导我！", "author": "诗篇 119:108" },
+  { "quote": "你是我藏身之处，是我的盾牌；我仰望你的话。", "author": "诗篇 119:114" },
+  { "quote": "你的公义永远长存；你的律法尽都真实。", "author": "诗篇 119:142" },
+
+  { "quote": "出言不慎犹如利剑伤人，智者之言却能医治创伤。", "author": "箴言 12:18" },
+  { "quote": "人心忧虑，就必沉重；一句良言，使心欢乐。", "author": "箴言 12:25" },
+  { "quote": "说话谨慎，可保性命；口无遮拦，自取灭亡。", "author": "箴言 13:3" },
+  { "quote": "与智慧人同行的，必得智慧；和愚昧人作伴的，必受亏损。", "author": "箴言 13:20" },
+  { "quote": "人所行的，若蒙耶和华喜悦，耶和华也使他的仇敌与他和好。", "author": "箴言 16:7" },
+  { "quote": "王脸上的光使人有生命，他的恩惠好像云带来的春雨。", "author": "箴言 16:15" },
+  { "quote": "公义的嘴为王所喜悦；说正直话的，为王所喜爱。", "author": "箴言 16:13" },
+  { "quote": "喜乐的心乃是良药；忧伤的灵使骨枯干。", "author": "箴言 17:22" },
+
+  { "quote": "你的话是我脚前的灯，是我路上的光。", "author": "诗篇 119:105" },
+  { "quote": "耶和华要保护你，免受一切的灾害，他要保护你的性命。你出你入，耶和华要保护你，从今时直到永远。", "author": "诗篇 121:7-8" },
+
+  { "quote": "甚愿你赐福与我，扩张我的疆界，你的手常与我同在，保佑我不遭患难，不受艰苦。", "author": "历代志上 4:10" },
+
+  { "quote": "要常常喜乐，不住地祷告，凡事谢恩；因为这是上帝在基督耶稣里向你们所定的旨意。", "author": "帖撒罗尼迦前书 5:16-18" },
+  { "quote": "愿赐平安的上帝亲自使你们全然成圣！又愿你们的灵与魂与身子得蒙保守，在我们主耶稣基督降临的时候，完全无可指摘！", "author": "帖撒罗尼迦前书 5:23" },
+
+  { "quote": "你们清晨早起，夜晚安歇，吃劳碌得来的饭，本是枉然；惟有耶和华所亲爱的，必叫他安然睡觉。", "author": "诗篇 127:2" },
+  { "quote": "我等候耶和华，我的心等候；我也仰望他的话。", "author": "诗篇 130:5" },
+  { "quote": "你们要称谢万主之主，因他的慈爱永远长存。", "author": "诗篇 136:3" },
+  { "quote": "上帝啊，你的意念向我何等宝贵！其数何等众多！我若数点，比海沙更多；我睡醒的时候，仍和你同在。", "author": "诗篇 139:17-18" },
+
+  { "quote": "但那等候耶和华的必重新得力。他们必如鹰展翅上腾；他们奔跑却不困倦，行走却不疲乏。", "author": "以赛亚书 40:31" },
+  { "quote": "与你争竞的，你要找他们也找不着；与你争战的必如无有。因为我耶和华－你的上帝必搀扶你的右手，对你说：不要害怕！我必帮助你。", "author": "以赛亚书 41:12-13" },
+  { "quote": "耶和华必时常引导你，在干旱之地使你心满意足，又使你骨头强壮。你必如有水浇灌的园子，又像水流不绝的泉源。", "author": "以赛亚书 58:11" },
+
+  { "quote": "疲乏的人，我使他振作；愁烦的人，我使他满足。", "author": "耶利米书 31:25" },
+  { "quote": "耶和华是我的福分，因此，我要仰望他。凡等候耶和华，心里寻求他的，耶和华必施恩给他。人仰望耶和华，安静等候他的救恩，这是好的。", "author": "耶利米哀歌 3:24-26" },
+  { "quote": "因耶和华的慈爱，我们不致灭绝，因他的怜悯永不断绝。每早晨，这些都是新的；你的信实极其广大！", "author": "耶利米哀歌 3:22-23" },
+
+  { "quote": "耶和华－你的上帝是施行拯救、大有能力的主。他在你中间必因你欢欣喜乐，默然爱你，且因你喜乐而欢呼。", "author": "西番雅书 3:17" },
+  { "quote": "你们被囚而有指望的人都要转回保障。我今日说明，我必加倍赐福给你们。", "author": "撒迦利亚书 9:12" },
+
+  { "quote": "现在活着的不再是我，乃是基督在我里面活着；并且我如今在肉身活着，是因信上帝的儿子而活；他是爱我，为我舍己。", "author": "加拉太书 2:20" },
+
+  { "quote": "我们借这爱子的血得蒙救赎，过犯得以赦免，乃是照他丰富的恩典。", "author": "以弗所书 1:7" },
+  { "quote": "你们得救是本乎恩，也因着信；这并不是出于自己，而是上帝所赐的。", "author": "以弗所书 2:8" },
+  { "quote": "我们因信耶稣，就在他里面放胆无惧，满有自信地进到上帝面前。", "author": "以弗所书 3:12" },
+  { "quote": "能够和众圣徒一同明白基督的爱是何等的长、阔、高、深，并知道这爱是超过人的知识所能测度的，为要使你们充满上帝一切的丰盛。", "author": "以弗所书 3:18-19" },
+  { "quote": "上帝能照着运行在我们心里的大能充充足足地成就一切，超过我们所求所想的。", "author": "以弗所书 3:20" },
+  { "quote": "你们要脱去从前的行为，脱去旧我；你们要把自己的心志更新，并穿上新我，这新我是照着上帝的形像造的，有从真理来的公义和圣洁。", "author": "以弗所书 4:22-24" },
+
+  { "quote": "你们要靠主常常喜乐。我再说，你们要喜乐。", "author": "腓立比书 4:4" },
+  { "quote": "我的上帝必照他荣耀的丰富，在基督耶稣里，使你们一切所需用的都充足。", "author": "腓立比书 4:19" },
+
+  { "quote": "所以，不要为明天忧虑，因为明天自有明天的忧虑；一天的难处一天当就够了。", "author": "马太福音 6:34" },
+
+  { "quote": "从他的丰富里，我们都领受了恩典，而且恩上加恩。", "author": "约翰福音 1:16" },
+  { "quote": "盗贼来，无非要偷窃，杀害，毁坏；我来了，是要羊得生命，并且得的更丰盛。", "author": "约翰福音 10:10" },
+
+  { "quote": "如今却蒙上帝的恩典，藉着在基督耶稣里的救赎，就白白地得称为义。", "author": "罗马书 3:24" },
+  { "quote": "上帝差遣自己的儿子成为罪身的样子，为了对付罪，在肉体中定了罪，为要使律法要求的义，实现在我们这不随从肉体、只随从圣灵去行的人身上。", "author": "罗马书 8:3-4" },
+  { "quote": "体贴肉体就是死；体贴圣灵就是生命和平安。", "author": "罗马书 8:5-6" },
+  { "quote": "若靠着圣灵治死身体的恶行，必要活着。", "author": "罗马书 8:12-13" },
+  { "quote": "我们知道，万事都互相效力，叫爱上帝的人得益处，就是按他旨意被召的人。", "author": "罗马书 8:28" },
+  { "quote": "上帝既不顾惜自己的儿子，为我们众人舍了他，岂不也把万物和他一同白白地赐给我们吗？", "author": "罗马书 8:32" },
+  { "quote": "靠着爱我们的主，在这一切的事上，我们已经得胜有余了。", "author": "罗马书 8:37" },
+  { "quote": "不要效法这个世界，只要心意更新而变化。", "author": "罗马书 12:2" },
+
+  { "quote": "他使基督成为我们的智慧、公义、圣洁、救赎。", "author": "哥林多前书 1:30" },
+
+  { "quote": "不是文字使人活，乃是圣灵使人活。", "author": "哥林多后书 3:5-6" },
+  { "quote": "我们得以看见主的荣光，就变成与主同样的形象，荣上加荣。", "author": "哥林多后书 3:18" },
+  { "quote": "我们外在的人日渐朽坏，内在的人却日日更新。", "author": "哥林多后书 4:16" },
+  { "quote": "我们行事为人是凭着信心，不是凭着眼见。", "author": "哥林多后书 5:7" },
+  { "quote": "若有人在基督里，他就是新造的人：旧事已过，都变成新的了。", "author": "哥林多后书 5:17" },
+  { "quote": "上帝能将各样的恩惠多多加给你们，使你们凡事常常充足。", "author": "哥林多后书 9:8" },
+  { "quote": "感谢上帝，因他有说不尽的恩赐！", "author": "哥林多后书 9:15" },
+
+  { "quote": "因为上帝赐给我们的不是胆怯的心，乃是刚强、仁爱、谨守的心。", "author": "提摩太后书 1:7" },
+
+  { "quote": "他便救了我们，是照他的怜悯，借着重生的洗和圣灵的更新。", "author": "提多书 3:5" },
+  { "quote": "圣灵厚厚地浇灌在我们身上，使我们因他的恩得称为义，凭着永生的盼望成为后嗣。", "author": "提多书 3:6-7" },
+
+  { "quote": "我们既因耶稣的血得以坦然进入至圣所，是借着他给我们开的一条又新又活的路。", "author": "希伯来书 10:19-20" },
+  { "quote": "让我们坦然无惧地来到施恩宝座前，为要得怜悯，蒙恩惠，作及时的帮助。", "author": "希伯来书 4:16" },
+
+  { "quote": "愿你们从他荣耀的权能中得力量，使你们凡事欢喜忍耐，又感谢父，使你们配得在光明中与圣徒同得基业。", "author": "歌罗西书 1:11-12" },
+  { "quote": "你们要思想天上的事，而不是地上的事。", "author": "歌罗西书 3:2" },
+  { "quote": "新人在知识上不断更新，照着造他的主的形象。", "author": "歌罗西书 3:10-11" },
+  { "quote": "要让基督的平安在你们心里作主，并存感谢的心。", "author": "歌罗西书 3:15" },
+  { "quote": "无论做什么，都要从心里做，像是给主做的。", "author": "歌罗西书 3:23-24" },
+
+  { "quote": "你们要将一切的忧虑卸给上帝，因为他顾念你们。", "author": "彼得前书 5:7" },
+
+  { "quote": "我们可以坦然无惧，因为基督如何，我们在这世上也如何。", "author": "约翰一书 4:17" },
+  { "quote": "凡从上帝生的就胜过世界；使我们胜过世界的就是我们的信心。", "author": "约翰一书 5:4" },
+
+  { "quote": "亲爱的兄弟啊，我愿你凡事兴盛，身体健壮，正如你的灵魂兴盛一样。", "author": "约翰三书 1:2" }
 ]
+
